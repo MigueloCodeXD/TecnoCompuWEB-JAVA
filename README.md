@@ -1,8 +1,10 @@
-SENA: Evidencia de desempeño: GA7-220501096-AA2-EV01 codificación de módulos del software según
-requerimientos del proyecto
-Desarrollada por :
-- Miguel Alfredo Bermudez Longas
-- Javier Alexander Echeverry Agudelo
+Evidencia de producto: GA7-220501096-AA2-EV02 Título: Módulos de software codificados y probados
+
+Desarrollado por los aprendices pertenecientes a la ficha de ADSO - 2977435
+
+Miguel Alfredo Bermudez Longas
+Javier Alexander Echeverry Agudelo
+
 Proyecto Java Web: TecnoCompu
 Este proyecto es una aplicación web Java funcional, utilizando Servlets y JSP, diseñada para ser compatible con Apache Tomcat 9 y gestionada con Maven. Incluye una base de datos embebida H2 y está configurado para un desarrollo sencillo en Visual Studio Code.
 
@@ -137,4 +139,4 @@ contact.jsp: Accesible desde el enlace en index.jsp.
 
 Repositorio: https://github.com/MigueloCodeXD/TecnoCompuJavaWEB
 
-¡Si no funciona en mi PC si funciona 100% connfirmado xD!
+¡100% Funcional :D!
