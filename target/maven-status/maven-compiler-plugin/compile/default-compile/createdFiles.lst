@@ -1,0 +1,8 @@
+com\tecnocompu\model\User.class
+com\tecnocompu\model\Contact.class
+com\tecnocompu\util\DBUtil.class
+com\tecnocompu\dao\ContactDAO.class
+com\tecnocompu\servlet\LoginServlet.class
+com\tecnocompu\servlet\RegisterServlet.class
+com\tecnocompu\dao\UserDAO.class
+com\tecnocompu\servlet\ContactServlet.class
