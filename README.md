@@ -137,6 +137,6 @@ index.jsp: Accesible después de un inicio de sesión exitoso.
 
 contact.jsp: Accesible desde el enlace en index.jsp.
 
-Repositorio: https://github.com/MigueloCodeXD/TecnoCompuJavaWEB
+Repositorio: https://github.com/MigueloCodeXD/TecnoCompuWEB-JAVA
 
 ¡100% Funcional :D!
