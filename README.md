@@ -3,6 +3,7 @@ Evidencia de producto: GA7-220501096-AA2-EV02 Título: Módulos de software codi
 Desarrollado por los aprendices pertenecientes a la ficha de ADSO - 2977435
 
 Miguel Alfredo Bermudez Longas
+
 Javier Alexander Echeverry Agudelo
 
 Proyecto Java Web: TecnoCompu
